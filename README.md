@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jeehan 👋
 
-<!--
-**jeehxnz/jeehxnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer in Training** | ⚡ Passionate about building scalable systems, AI/ML applications, and full-stack products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Engineering student at Boston University (Concentration: Machine Learning)  
+- 🔧 Experienced in building backend APIs, scalable full-stack apps, and AI-powered systems  
+- 🌱 I thrive on learning new technologies and challenging myself with complex projects   
+- 🌍 Interested in distributed systems, developer productivity tools, and applied AI  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript/TypeScript, SQL  
+- **Frameworks & Tools:** FastAPI, Flask, React, Next.js, AdonisJS  
+- **Databases:** PostgreSQL, MongoDB, ChromaDB  
+- **Cloud/Infra:** Docker, AWS, Azure, Render, Supabase  
+- **Other:** GitHub Actions, CI/CD, RAG systems, LLM pipelines  
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/jeehan-zaman](#)  
+- Email: jeehanz@bu.edu  
+
+---
+
+⭐ Always open to collaboration, learning, and sharing ideas.  
+Let’s build something impactful together!
