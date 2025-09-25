@@ -25,7 +25,4 @@
 - LinkedIn: [linkedin.com/in/jeehan-zaman](#)  
 - Email: jeehanz@bu.edu  
 
----
 
-⭐ Always open to collaboration, learning, and sharing ideas.  
-Let’s build something impactful together!
