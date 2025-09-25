@@ -1,6 +1,6 @@
 # Hi, I'm Jeehan 👋
 
-💻 **Software Engineer in Training** | ⚡ Passionate about building scalable systems, AI/ML applications, and full-stack products
+💻 **Software Engineer in Training** | Passionate about building scalable systems and full-stack products.
 
 ---
 
