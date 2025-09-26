@@ -8,7 +8,6 @@
 - 🎓 Computer Engineering student at Boston University (Concentration: Machine Learning)  
 - 🔧 Experienced in building backend APIs, scalable full-stack apps, and AI-powered systems  
 - 🌱 I thrive on learning new technologies and challenging myself with complex projects   
-- 🌍 Interested in distributed systems, developer productivity tools, and applied AI  
 
 ---
 
