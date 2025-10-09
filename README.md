@@ -4,10 +4,10 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Engineering student at Boston University (Concentration: Machine Learning)  
-- 🔧 Experienced in building backend APIs, scalable full-stack apps, and AI-powered systems  
-- 🌱 I thrive on learning new technologies and challenging myself with complex projects   
+### About Me
+- Computer Engineering student at Boston University (Concentration: Machine Learning)  
+- Experienced in building backend APIs, scalable full-stack apps, and AI-powered systems  
+- I thrive on learning new technologies and challenging myself with complex projects   
 
 ---
 
@@ -15,7 +15,7 @@
 - **Languages:** Python, C++, JavaScript/TypeScript, SQL  
 - **Frameworks & Tools:** FastAPI, Flask, React, Next.js, AdonisJS  
 - **Databases:** PostgreSQL, MongoDB, ChromaDB  
-- **Cloud/Infra:** Docker, AWS, Azure, Render, Supabase  
+- **Cloud/Infra:** Docker, AWS, Azure, Render, 
 - **Other:** GitHub Actions, CI/CD, RAG systems, LLM pipelines  
 
 ---
